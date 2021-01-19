@@ -17,7 +17,7 @@
 	</a>&nbsp;&nbsp;
 	<img src="https://gpvc.arturio.dev/j22pregbaha" />
 	<p align = "center">
-		<img src = "https://github-readme-stats.vercel.app/api?username=j22pregbaha&show_icons=true&theme=tokyonight&line_height=27">
-		<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=j22pregbaha&hide=css,java,html&theme=tokyonight">
+		<img src = "https://github-readme-stats.vercel.app/api?username=j22pregbaha&show_icons=true&theme=dark&line_height=27">
+		<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=j22pregbaha&hide=css,java,html&theme=dark">
 	</p>
 </p>
