@@ -1,6 +1,6 @@
 <h1 align='center'>Hi there 👋🏾</h1>
 
-<p align='center'>I am a Software Developer focused on (React, Node/Express, PHP/Codeigniter) and a data scientist in training </p>
+<p align='center'>I am a Software Developer focused on JavaScript & PHP. I am also intersted in machine learning and data science </p>
 
 <p align='center'>
 	<!-- <a href="" target="_blank">
